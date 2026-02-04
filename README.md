@@ -22,19 +22,11 @@ Send result from the output manually to your email run this command:
 python email_sender.py
 
 
-
-
-"""
-═════════════════════════════════════════════════
 ⚠️  DISCLAIMER - EDUCATIONAL PURPOSE ONLY ⚠️
-═══════════════════════════════════════════════════
 
 I will NOT be responsible for any misuse, legal issues, damages, or losses.
 By using this, you accept full responsibility and all risks.
 
-═══════════════════════════════════════════════════════════════
-
-"""
 
 <img width="1102" height="621" alt="Screenshot 2026-02-03 151822" src="https://github.com/user-attachments/assets/68cd9352-1737-4b17-a860-4c611d9ef025" />
 
