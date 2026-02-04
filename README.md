@@ -25,9 +25,9 @@ python email_sender.py
 
 
 """
-═══════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════
 ⚠️  DISCLAIMER - EDUCATIONAL PURPOSE ONLY ⚠️
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════
 
 I will NOT be responsible for any misuse, legal issues, damages, or losses.
 By using this, you accept full responsibility and all risks.
